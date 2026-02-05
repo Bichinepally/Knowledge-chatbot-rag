@@ -1,0 +1,38 @@
+[
+    {
+        "entity_type": "Aspect",
+        "entity_value": "product"
+    },
+    {
+        "entity_type": "Aspect",
+        "entity_value": "experience"
+    },
+    {
+        "entity_type": "Sentiment",
+        "entity_value": "bad"
+    },
+    {
+        "entity_type": "Sentiment",
+        "entity_value": "average"
+    },
+    {
+        "entity_type": "Aspect",
+        "entity_value": "delivery"
+    },
+    {
+        "entity_type": "Aspect",
+        "entity_value": "price"
+    },
+    {
+        "entity_type": "Sentiment",
+        "entity_value": "excellent"
+    },
+    {
+        "entity_type": "Sentiment",
+        "entity_value": "good"
+    },
+    {
+        "entity_type": "Sentiment",
+        "entity_value": "poor"
+    }
+]

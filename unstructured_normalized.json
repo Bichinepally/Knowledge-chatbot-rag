@@ -1,0 +1,402 @@
+[
+    {
+        "doc_id":"1",
+        "text":"the product was bad and the experience was average."
+    },
+    {
+        "doc_id":"2",
+        "text":"the delivery was bad and the experience was average."
+    },
+    {
+        "doc_id":"3",
+        "text":"the price was bad and the experience was excellent."
+    },
+    {
+        "doc_id":"4",
+        "text":"the product was average and the experience was good."
+    },
+    {
+        "doc_id":"5",
+        "text":"the product was poor and the experience was poor."
+    },
+    {
+        "doc_id":"6",
+        "text":"the support was excellent and the experience was bad."
+    },
+    {
+        "doc_id":"7",
+        "text":"the product was bad and the experience was bad."
+    },
+    {
+        "doc_id":"8",
+        "text":"the delivery was poor and the experience was excellent."
+    },
+    {
+        "doc_id":"9",
+        "text":"the service was average and the experience was excellent."
+    },
+    {
+        "doc_id":"10",
+        "text":"the product was poor and the experience was average."
+    },
+    {
+        "doc_id":"11",
+        "text":"the support was bad and the experience was good."
+    },
+    {
+        "doc_id":"12",
+        "text":"the support was poor and the experience was good."
+    },
+    {
+        "doc_id":"13",
+        "text":"the service was bad and the experience was good."
+    },
+    {
+        "doc_id":"14",
+        "text":"the delivery was poor and the experience was excellent."
+    },
+    {
+        "doc_id":"15",
+        "text":"the product was excellent and the experience was excellent."
+    },
+    {
+        "doc_id":"16",
+        "text":"the service was good and the experience was bad."
+    },
+    {
+        "doc_id":"17",
+        "text":"the support was average and the experience was good."
+    },
+    {
+        "doc_id":"18",
+        "text":"the support was average and the experience was good."
+    },
+    {
+        "doc_id":"19",
+        "text":"the support was average and the experience was excellent."
+    },
+    {
+        "doc_id":"20",
+        "text":"the delivery was average and the experience was excellent."
+    },
+    {
+        "doc_id":"21",
+        "text":"the support was poor and the experience was bad."
+    },
+    {
+        "doc_id":"22",
+        "text":"the price was poor and the experience was good."
+    },
+    {
+        "doc_id":"23",
+        "text":"the product was good and the experience was good."
+    },
+    {
+        "doc_id":"24",
+        "text":"the support was average and the experience was bad."
+    },
+    {
+        "doc_id":"25",
+        "text":"the product was average and the experience was average."
+    },
+    {
+        "doc_id":"26",
+        "text":"the price was bad and the experience was bad."
+    },
+    {
+        "doc_id":"27",
+        "text":"the delivery was average and the experience was good."
+    },
+    {
+        "doc_id":"28",
+        "text":"the product was bad and the experience was good."
+    },
+    {
+        "doc_id":"29",
+        "text":"the service was excellent and the experience was excellent."
+    },
+    {
+        "doc_id":"30",
+        "text":"the delivery was excellent and the experience was average."
+    },
+    {
+        "doc_id":"31",
+        "text":"the product was poor and the experience was good."
+    },
+    {
+        "doc_id":"32",
+        "text":"the price was bad and the experience was bad."
+    },
+    {
+        "doc_id":"33",
+        "text":"the service was excellent and the experience was excellent."
+    },
+    {
+        "doc_id":"34",
+        "text":"the support was bad and the experience was bad."
+    },
+    {
+        "doc_id":"35",
+        "text":"the support was excellent and the experience was bad."
+    },
+    {
+        "doc_id":"36",
+        "text":"the price was poor and the experience was poor."
+    },
+    {
+        "doc_id":"37",
+        "text":"the support was bad and the experience was good."
+    },
+    {
+        "doc_id":"38",
+        "text":"the product was poor and the experience was average."
+    },
+    {
+        "doc_id":"39",
+        "text":"the support was poor and the experience was average."
+    },
+    {
+        "doc_id":"40",
+        "text":"the service was average and the experience was average."
+    },
+    {
+        "doc_id":"41",
+        "text":"the support was excellent and the experience was average."
+    },
+    {
+        "doc_id":"42",
+        "text":"the service was good and the experience was average."
+    },
+    {
+        "doc_id":"43",
+        "text":"the product was average and the experience was excellent."
+    },
+    {
+        "doc_id":"44",
+        "text":"the price was bad and the experience was good."
+    },
+    {
+        "doc_id":"45",
+        "text":"the delivery was good and the experience was bad."
+    },
+    {
+        "doc_id":"46",
+        "text":"the price was good and the experience was good."
+    },
+    {
+        "doc_id":"47",
+        "text":"the support was poor and the experience was excellent."
+    },
+    {
+        "doc_id":"48",
+        "text":"the service was bad and the experience was poor."
+    },
+    {
+        "doc_id":"49",
+        "text":"the product was good and the experience was good."
+    },
+    {
+        "doc_id":"50",
+        "text":"the support was bad and the experience was average."
+    },
+    {
+        "doc_id":"51",
+        "text":"the support was poor and the experience was poor."
+    },
+    {
+        "doc_id":"52",
+        "text":"the delivery was average and the experience was bad."
+    },
+    {
+        "doc_id":"53",
+        "text":"the service was good and the experience was excellent."
+    },
+    {
+        "doc_id":"54",
+        "text":"the price was poor and the experience was good."
+    },
+    {
+        "doc_id":"55",
+        "text":"the price was excellent and the experience was bad."
+    },
+    {
+        "doc_id":"56",
+        "text":"the product was good and the experience was average."
+    },
+    {
+        "doc_id":"57",
+        "text":"the support was good and the experience was excellent."
+    },
+    {
+        "doc_id":"58",
+        "text":"the price was poor and the experience was excellent."
+    },
+    {
+        "doc_id":"59",
+        "text":"the price was bad and the experience was poor."
+    },
+    {
+        "doc_id":"60",
+        "text":"the support was excellent and the experience was average."
+    },
+    {
+        "doc_id":"61",
+        "text":"the service was excellent and the experience was excellent."
+    },
+    {
+        "doc_id":"62",
+        "text":"the delivery was average and the experience was average."
+    },
+    {
+        "doc_id":"63",
+        "text":"the support was good and the experience was average."
+    },
+    {
+        "doc_id":"64",
+        "text":"the service was good and the experience was average."
+    },
+    {
+        "doc_id":"65",
+        "text":"the product was good and the experience was good."
+    },
+    {
+        "doc_id":"66",
+        "text":"the support was average and the experience was poor."
+    },
+    {
+        "doc_id":"67",
+        "text":"the price was good and the experience was average."
+    },
+    {
+        "doc_id":"68",
+        "text":"the delivery was poor and the experience was good."
+    },
+    {
+        "doc_id":"69",
+        "text":"the delivery was poor and the experience was poor."
+    },
+    {
+        "doc_id":"70",
+        "text":"the delivery was bad and the experience was poor."
+    },
+    {
+        "doc_id":"71",
+        "text":"the support was bad and the experience was poor."
+    },
+    {
+        "doc_id":"72",
+        "text":"the price was poor and the experience was excellent."
+    },
+    {
+        "doc_id":"73",
+        "text":"the price was bad and the experience was poor."
+    },
+    {
+        "doc_id":"74",
+        "text":"the service was poor and the experience was poor."
+    },
+    {
+        "doc_id":"75",
+        "text":"the product was bad and the experience was good."
+    },
+    {
+        "doc_id":"76",
+        "text":"the delivery was poor and the experience was poor."
+    },
+    {
+        "doc_id":"77",
+        "text":"the product was excellent and the experience was average."
+    },
+    {
+        "doc_id":"78",
+        "text":"the support was bad and the experience was average."
+    },
+    {
+        "doc_id":"79",
+        "text":"the delivery was good and the experience was good."
+    },
+    {
+        "doc_id":"80",
+        "text":"the service was average and the experience was bad."
+    },
+    {
+        "doc_id":"81",
+        "text":"the support was poor and the experience was good."
+    },
+    {
+        "doc_id":"82",
+        "text":"the delivery was poor and the experience was poor."
+    },
+    {
+        "doc_id":"83",
+        "text":"the support was poor and the experience was poor."
+    },
+    {
+        "doc_id":"84",
+        "text":"the price was good and the experience was good."
+    },
+    {
+        "doc_id":"85",
+        "text":"the price was excellent and the experience was average."
+    },
+    {
+        "doc_id":"86",
+        "text":"the price was poor and the experience was excellent."
+    },
+    {
+        "doc_id":"87",
+        "text":"the price was excellent and the experience was average."
+    },
+    {
+        "doc_id":"88",
+        "text":"the delivery was average and the experience was poor."
+    },
+    {
+        "doc_id":"89",
+        "text":"the price was excellent and the experience was average."
+    },
+    {
+        "doc_id":"90",
+        "text":"the delivery was excellent and the experience was good."
+    },
+    {
+        "doc_id":"91",
+        "text":"the support was bad and the experience was excellent."
+    },
+    {
+        "doc_id":"92",
+        "text":"the support was good and the experience was average."
+    },
+    {
+        "doc_id":"93",
+        "text":"the support was bad and the experience was average."
+    },
+    {
+        "doc_id":"94",
+        "text":"the support was excellent and the experience was average."
+    },
+    {
+        "doc_id":"95",
+        "text":"the delivery was average and the experience was bad."
+    },
+    {
+        "doc_id":"96",
+        "text":"the support was bad and the experience was poor."
+    },
+    {
+        "doc_id":"97",
+        "text":"the delivery was average and the experience was average."
+    },
+    {
+        "doc_id":"98",
+        "text":"the service was excellent and the experience was average."
+    },
+    {
+        "doc_id":"99",
+        "text":"the support was good and the experience was excellent."
+    },
+    {
+        "doc_id":"100",
+        "text":"the price was good and the experience was average."
+    }
+]

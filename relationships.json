@@ -1,0 +1,1502 @@
+[
+    {
+        "subject": "Employee_1",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_1",
+        "relation": "has_salary",
+        "object": 30754
+    },
+    {
+        "subject": "Employee_1",
+        "relation": "has_experience",
+        "object": 3
+    },
+    {
+        "subject": "Employee_2",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_2",
+        "relation": "has_salary",
+        "object": 81729
+    },
+    {
+        "subject": "Employee_2",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_3",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_3",
+        "relation": "has_salary",
+        "object": 49183
+    },
+    {
+        "subject": "Employee_3",
+        "relation": "has_experience",
+        "object": 7
+    },
+    {
+        "subject": "Employee_4",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_4",
+        "relation": "has_salary",
+        "object": 44222
+    },
+    {
+        "subject": "Employee_4",
+        "relation": "has_experience",
+        "object": 0
+    },
+    {
+        "subject": "Employee_5",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_5",
+        "relation": "has_salary",
+        "object": 38537
+    },
+    {
+        "subject": "Employee_5",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_6",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_6",
+        "relation": "has_salary",
+        "object": 42424
+    },
+    {
+        "subject": "Employee_6",
+        "relation": "has_experience",
+        "object": 13
+    },
+    {
+        "subject": "Employee_7",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_7",
+        "relation": "has_salary",
+        "object": 67922
+    },
+    {
+        "subject": "Employee_7",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_8",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_8",
+        "relation": "has_salary",
+        "object": 32992
+    },
+    {
+        "subject": "Employee_8",
+        "relation": "has_experience",
+        "object": 3
+    },
+    {
+        "subject": "Employee_9",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_9",
+        "relation": "has_salary",
+        "object": 68692
+    },
+    {
+        "subject": "Employee_9",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_10",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_10",
+        "relation": "has_salary",
+        "object": 54443
+    },
+    {
+        "subject": "Employee_10",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_11",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_11",
+        "relation": "has_salary",
+        "object": 56383
+    },
+    {
+        "subject": "Employee_11",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_12",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_12",
+        "relation": "has_salary",
+        "object": 64108
+    },
+    {
+        "subject": "Employee_12",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_13",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_13",
+        "relation": "has_salary",
+        "object": 31242
+    },
+    {
+        "subject": "Employee_13",
+        "relation": "has_experience",
+        "object": 13
+    },
+    {
+        "subject": "Employee_14",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_14",
+        "relation": "has_salary",
+        "object": 43003
+    },
+    {
+        "subject": "Employee_14",
+        "relation": "has_experience",
+        "object": 0
+    },
+    {
+        "subject": "Employee_15",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_15",
+        "relation": "has_salary",
+        "object": 43558
+    },
+    {
+        "subject": "Employee_15",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_16",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_16",
+        "relation": "has_salary",
+        "object": 47820
+    },
+    {
+        "subject": "Employee_16",
+        "relation": "has_experience",
+        "object": 7
+    },
+    {
+        "subject": "Employee_17",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_17",
+        "relation": "has_salary",
+        "object": 84836
+    },
+    {
+        "subject": "Employee_17",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_18",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_18",
+        "relation": "has_salary",
+        "object": 48597
+    },
+    {
+        "subject": "Employee_18",
+        "relation": "has_experience",
+        "object": 13
+    },
+    {
+        "subject": "Employee_19",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_19",
+        "relation": "has_salary",
+        "object": 85149
+    },
+    {
+        "subject": "Employee_19",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_20",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_20",
+        "relation": "has_salary",
+        "object": 73219
+    },
+    {
+        "subject": "Employee_20",
+        "relation": "has_experience",
+        "object": 0
+    },
+    {
+        "subject": "Employee_21",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_21",
+        "relation": "has_salary",
+        "object": 62485
+    },
+    {
+        "subject": "Employee_21",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_22",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_22",
+        "relation": "has_salary",
+        "object": 66980
+    },
+    {
+        "subject": "Employee_22",
+        "relation": "has_experience",
+        "object": 0
+    },
+    {
+        "subject": "Employee_23",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_23",
+        "relation": "has_salary",
+        "object": 49245
+    },
+    {
+        "subject": "Employee_23",
+        "relation": "has_experience",
+        "object": 0
+    },
+    {
+        "subject": "Employee_24",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_24",
+        "relation": "has_salary",
+        "object": 82646
+    },
+    {
+        "subject": "Employee_24",
+        "relation": "has_experience",
+        "object": 11
+    },
+    {
+        "subject": "Employee_25",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_25",
+        "relation": "has_salary",
+        "object": 59808
+    },
+    {
+        "subject": "Employee_25",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_26",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_26",
+        "relation": "has_salary",
+        "object": 76567
+    },
+    {
+        "subject": "Employee_26",
+        "relation": "has_experience",
+        "object": 7
+    },
+    {
+        "subject": "Employee_27",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_27",
+        "relation": "has_salary",
+        "object": 55528
+    },
+    {
+        "subject": "Employee_27",
+        "relation": "has_experience",
+        "object": 11
+    },
+    {
+        "subject": "Employee_28",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_28",
+        "relation": "has_salary",
+        "object": 28871
+    },
+    {
+        "subject": "Employee_28",
+        "relation": "has_experience",
+        "object": 0
+    },
+    {
+        "subject": "Employee_29",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_29",
+        "relation": "has_salary",
+        "object": 67075
+    },
+    {
+        "subject": "Employee_29",
+        "relation": "has_experience",
+        "object": 2
+    },
+    {
+        "subject": "Employee_30",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_30",
+        "relation": "has_salary",
+        "object": 45625
+    },
+    {
+        "subject": "Employee_30",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_31",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_31",
+        "relation": "has_salary",
+        "object": 34963
+    },
+    {
+        "subject": "Employee_31",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_32",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_32",
+        "relation": "has_salary",
+        "object": 72881
+    },
+    {
+        "subject": "Employee_32",
+        "relation": "has_experience",
+        "object": 15
+    },
+    {
+        "subject": "Employee_33",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_33",
+        "relation": "has_salary",
+        "object": 78551
+    },
+    {
+        "subject": "Employee_33",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_34",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_34",
+        "relation": "has_salary",
+        "object": 47961
+    },
+    {
+        "subject": "Employee_34",
+        "relation": "has_experience",
+        "object": 3
+    },
+    {
+        "subject": "Employee_35",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_35",
+        "relation": "has_salary",
+        "object": 50935
+    },
+    {
+        "subject": "Employee_35",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_36",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_36",
+        "relation": "has_salary",
+        "object": 87019
+    },
+    {
+        "subject": "Employee_36",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_37",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_37",
+        "relation": "has_salary",
+        "object": 26832
+    },
+    {
+        "subject": "Employee_37",
+        "relation": "has_experience",
+        "object": 8
+    },
+    {
+        "subject": "Employee_38",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_38",
+        "relation": "has_salary",
+        "object": 69755
+    },
+    {
+        "subject": "Employee_38",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_39",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_39",
+        "relation": "has_salary",
+        "object": 78404
+    },
+    {
+        "subject": "Employee_39",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_40",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_40",
+        "relation": "has_salary",
+        "object": 74519
+    },
+    {
+        "subject": "Employee_40",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_41",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_41",
+        "relation": "has_salary",
+        "object": 68430
+    },
+    {
+        "subject": "Employee_41",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_42",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_42",
+        "relation": "has_salary",
+        "object": 86435
+    },
+    {
+        "subject": "Employee_42",
+        "relation": "has_experience",
+        "object": 3
+    },
+    {
+        "subject": "Employee_43",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_43",
+        "relation": "has_salary",
+        "object": 38218
+    },
+    {
+        "subject": "Employee_43",
+        "relation": "has_experience",
+        "object": 2
+    },
+    {
+        "subject": "Employee_44",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_44",
+        "relation": "has_salary",
+        "object": 39888
+    },
+    {
+        "subject": "Employee_44",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_45",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_45",
+        "relation": "has_salary",
+        "object": 67216
+    },
+    {
+        "subject": "Employee_45",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_46",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_46",
+        "relation": "has_salary",
+        "object": 89872
+    },
+    {
+        "subject": "Employee_46",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_47",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_47",
+        "relation": "has_salary",
+        "object": 85811
+    },
+    {
+        "subject": "Employee_47",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_48",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_48",
+        "relation": "has_salary",
+        "object": 79236
+    },
+    {
+        "subject": "Employee_48",
+        "relation": "has_experience",
+        "object": 6
+    },
+    {
+        "subject": "Employee_49",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_49",
+        "relation": "has_salary",
+        "object": 77665
+    },
+    {
+        "subject": "Employee_49",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_50",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_50",
+        "relation": "has_salary",
+        "object": 65850
+    },
+    {
+        "subject": "Employee_50",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_51",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_51",
+        "relation": "has_salary",
+        "object": 72578
+    },
+    {
+        "subject": "Employee_51",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_52",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_52",
+        "relation": "has_salary",
+        "object": 34128
+    },
+    {
+        "subject": "Employee_52",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_53",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_53",
+        "relation": "has_salary",
+        "object": 80617
+    },
+    {
+        "subject": "Employee_53",
+        "relation": "has_experience",
+        "object": 4
+    },
+    {
+        "subject": "Employee_54",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_54",
+        "relation": "has_salary",
+        "object": 81489
+    },
+    {
+        "subject": "Employee_54",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_55",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_55",
+        "relation": "has_salary",
+        "object": 79459
+    },
+    {
+        "subject": "Employee_55",
+        "relation": "has_experience",
+        "object": 8
+    },
+    {
+        "subject": "Employee_56",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_56",
+        "relation": "has_salary",
+        "object": 84070
+    },
+    {
+        "subject": "Employee_56",
+        "relation": "has_experience",
+        "object": 3
+    },
+    {
+        "subject": "Employee_57",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_57",
+        "relation": "has_salary",
+        "object": 51327
+    },
+    {
+        "subject": "Employee_57",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_58",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_58",
+        "relation": "has_salary",
+        "object": 40959
+    },
+    {
+        "subject": "Employee_58",
+        "relation": "has_experience",
+        "object": 7
+    },
+    {
+        "subject": "Employee_59",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_59",
+        "relation": "has_salary",
+        "object": 64884
+    },
+    {
+        "subject": "Employee_59",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_60",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_60",
+        "relation": "has_salary",
+        "object": 58907
+    },
+    {
+        "subject": "Employee_60",
+        "relation": "has_experience",
+        "object": 14
+    },
+    {
+        "subject": "Employee_61",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_61",
+        "relation": "has_salary",
+        "object": 26235
+    },
+    {
+        "subject": "Employee_61",
+        "relation": "has_experience",
+        "object": 2
+    },
+    {
+        "subject": "Employee_62",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_62",
+        "relation": "has_salary",
+        "object": 62445
+    },
+    {
+        "subject": "Employee_62",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_63",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_63",
+        "relation": "has_salary",
+        "object": 42244
+    },
+    {
+        "subject": "Employee_63",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_64",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_64",
+        "relation": "has_salary",
+        "object": 54915
+    },
+    {
+        "subject": "Employee_64",
+        "relation": "has_experience",
+        "object": 8
+    },
+    {
+        "subject": "Employee_65",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_65",
+        "relation": "has_salary",
+        "object": 34582
+    },
+    {
+        "subject": "Employee_65",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_66",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_66",
+        "relation": "has_salary",
+        "object": 57694
+    },
+    {
+        "subject": "Employee_66",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_67",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_67",
+        "relation": "has_salary",
+        "object": 49541
+    },
+    {
+        "subject": "Employee_67",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_68",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_68",
+        "relation": "has_salary",
+        "object": 50950
+    },
+    {
+        "subject": "Employee_68",
+        "relation": "has_experience",
+        "object": 15
+    },
+    {
+        "subject": "Employee_69",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_69",
+        "relation": "has_salary",
+        "object": 63647
+    },
+    {
+        "subject": "Employee_69",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_70",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_70",
+        "relation": "has_salary",
+        "object": 31412
+    },
+    {
+        "subject": "Employee_70",
+        "relation": "has_experience",
+        "object": 7
+    },
+    {
+        "subject": "Employee_71",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_71",
+        "relation": "has_salary",
+        "object": 85751
+    },
+    {
+        "subject": "Employee_71",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_72",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_72",
+        "relation": "has_salary",
+        "object": 85628
+    },
+    {
+        "subject": "Employee_72",
+        "relation": "has_experience",
+        "object": 8
+    },
+    {
+        "subject": "Employee_73",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_73",
+        "relation": "has_salary",
+        "object": 79929
+    },
+    {
+        "subject": "Employee_73",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_74",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_74",
+        "relation": "has_salary",
+        "object": 85419
+    },
+    {
+        "subject": "Employee_74",
+        "relation": "has_experience",
+        "object": 4
+    },
+    {
+        "subject": "Employee_75",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_75",
+        "relation": "has_salary",
+        "object": 43897
+    },
+    {
+        "subject": "Employee_75",
+        "relation": "has_experience",
+        "object": 15
+    },
+    {
+        "subject": "Employee_76",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_76",
+        "relation": "has_salary",
+        "object": 41606
+    },
+    {
+        "subject": "Employee_76",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_77",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_77",
+        "relation": "has_salary",
+        "object": 36960
+    },
+    {
+        "subject": "Employee_77",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_78",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_78",
+        "relation": "has_salary",
+        "object": 57307
+    },
+    {
+        "subject": "Employee_78",
+        "relation": "has_experience",
+        "object": 3
+    },
+    {
+        "subject": "Employee_79",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_79",
+        "relation": "has_salary",
+        "object": 34427
+    },
+    {
+        "subject": "Employee_79",
+        "relation": "has_experience",
+        "object": 3
+    },
+    {
+        "subject": "Employee_80",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_80",
+        "relation": "has_salary",
+        "object": 40092
+    },
+    {
+        "subject": "Employee_80",
+        "relation": "has_experience",
+        "object": 8
+    },
+    {
+        "subject": "Employee_81",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_81",
+        "relation": "has_salary",
+        "object": 50277
+    },
+    {
+        "subject": "Employee_81",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_82",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_82",
+        "relation": "has_salary",
+        "object": 35067
+    },
+    {
+        "subject": "Employee_82",
+        "relation": "has_experience",
+        "object": 5
+    },
+    {
+        "subject": "Employee_83",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_83",
+        "relation": "has_salary",
+        "object": 37091
+    },
+    {
+        "subject": "Employee_83",
+        "relation": "has_experience",
+        "object": 2
+    },
+    {
+        "subject": "Employee_84",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_84",
+        "relation": "has_salary",
+        "object": 55202
+    },
+    {
+        "subject": "Employee_84",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_85",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_85",
+        "relation": "has_salary",
+        "object": 35035
+    },
+    {
+        "subject": "Employee_85",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_86",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_86",
+        "relation": "has_salary",
+        "object": 49681
+    },
+    {
+        "subject": "Employee_86",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_87",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_87",
+        "relation": "has_salary",
+        "object": 39694
+    },
+    {
+        "subject": "Employee_87",
+        "relation": "has_experience",
+        "object": 4
+    },
+    {
+        "subject": "Employee_88",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_88",
+        "relation": "has_salary",
+        "object": 35900
+    },
+    {
+        "subject": "Employee_88",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_89",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_89",
+        "relation": "has_salary",
+        "object": 69026
+    },
+    {
+        "subject": "Employee_89",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_90",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_90",
+        "relation": "has_salary",
+        "object": 63104
+    },
+    {
+        "subject": "Employee_90",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_91",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_91",
+        "relation": "has_salary",
+        "object": 43566
+    },
+    {
+        "subject": "Employee_91",
+        "relation": "has_experience",
+        "object": 8
+    },
+    {
+        "subject": "Employee_92",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_92",
+        "relation": "has_salary",
+        "object": 31035
+    },
+    {
+        "subject": "Employee_92",
+        "relation": "has_experience",
+        "object": 2
+    },
+    {
+        "subject": "Employee_93",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_93",
+        "relation": "has_salary",
+        "object": 35938
+    },
+    {
+        "subject": "Employee_93",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_94",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_94",
+        "relation": "has_salary",
+        "object": 30626
+    },
+    {
+        "subject": "Employee_94",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_95",
+        "relation": "works_in",
+        "object": "Hr"
+    },
+    {
+        "subject": "Employee_95",
+        "relation": "has_salary",
+        "object": 39394
+    },
+    {
+        "subject": "Employee_95",
+        "relation": "has_experience",
+        "object": 1
+    },
+    {
+        "subject": "Employee_96",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_96",
+        "relation": "has_salary",
+        "object": 48963
+    },
+    {
+        "subject": "Employee_96",
+        "relation": "has_experience",
+        "object": 9
+    },
+    {
+        "subject": "Employee_97",
+        "relation": "works_in",
+        "object": "Finance"
+    },
+    {
+        "subject": "Employee_97",
+        "relation": "has_salary",
+        "object": 43428
+    },
+    {
+        "subject": "Employee_97",
+        "relation": "has_experience",
+        "object": 10
+    },
+    {
+        "subject": "Employee_98",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_98",
+        "relation": "has_salary",
+        "object": 73294
+    },
+    {
+        "subject": "Employee_98",
+        "relation": "has_experience",
+        "object": 2
+    },
+    {
+        "subject": "Employee_99",
+        "relation": "works_in",
+        "object": "It"
+    },
+    {
+        "subject": "Employee_99",
+        "relation": "has_salary",
+        "object": 38672
+    },
+    {
+        "subject": "Employee_99",
+        "relation": "has_experience",
+        "object": 12
+    },
+    {
+        "subject": "Employee_100",
+        "relation": "works_in",
+        "object": "Sales"
+    },
+    {
+        "subject": "Employee_100",
+        "relation": "has_salary",
+        "object": 62084
+    },
+    {
+        "subject": "Employee_100",
+        "relation": "has_experience",
+        "object": 13
+    }
+]

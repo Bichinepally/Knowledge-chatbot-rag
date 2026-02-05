@@ -1,0 +1,102 @@
+[
+    {
+        "entity": "product",
+        "relation": "has_sentiment",
+        "object": "bad"
+    },
+    {
+        "entity": "product",
+        "relation": "has_sentiment",
+        "object": "average"
+    },
+    {
+        "entity": "experience",
+        "relation": "has_sentiment",
+        "object": "bad"
+    },
+    {
+        "entity": "experience",
+        "relation": "has_sentiment",
+        "object": "average"
+    },
+    {
+        "entity": "delivery",
+        "relation": "has_sentiment",
+        "object": "bad"
+    },
+    {
+        "entity": "delivery",
+        "relation": "has_sentiment",
+        "object": "average"
+    },
+    {
+        "entity": "price",
+        "relation": "has_sentiment",
+        "object": "bad"
+    },
+    {
+        "entity": "price",
+        "relation": "has_sentiment",
+        "object": "excellent"
+    },
+    {
+        "entity": "experience",
+        "relation": "has_sentiment",
+        "object": "excellent"
+    },
+    {
+        "entity": "product",
+        "relation": "has_sentiment",
+        "object": "good"
+    },
+    {
+        "entity": "experience",
+        "relation": "has_sentiment",
+        "object": "good"
+    },
+    {
+        "entity": "product",
+        "relation": "has_sentiment",
+        "object": "poor"
+    },
+    {
+        "entity": "experience",
+        "relation": "has_sentiment",
+        "object": "poor"
+    },
+    {
+        "entity": "delivery",
+        "relation": "has_sentiment",
+        "object": "excellent"
+    },
+    {
+        "entity": "delivery",
+        "relation": "has_sentiment",
+        "object": "poor"
+    },
+    {
+        "entity": "product",
+        "relation": "has_sentiment",
+        "object": "excellent"
+    },
+    {
+        "entity": "price",
+        "relation": "has_sentiment",
+        "object": "good"
+    },
+    {
+        "entity": "price",
+        "relation": "has_sentiment",
+        "object": "poor"
+    },
+    {
+        "entity": "delivery",
+        "relation": "has_sentiment",
+        "object": "good"
+    },
+    {
+        "entity": "price",
+        "relation": "has_sentiment",
+        "object": "average"
+    }
+]

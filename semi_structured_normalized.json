@@ -1,0 +1,402 @@
+[
+    {
+        "record_id":1,
+        "event_data":"{\"User_Id\": 1, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 80}}"
+    },
+    {
+        "record_id":2,
+        "event_data":"{\"User_Id\": 2, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 36}}"
+    },
+    {
+        "record_id":3,
+        "event_data":"{\"User_Id\": 3, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 30}}"
+    },
+    {
+        "record_id":4,
+        "event_data":"{\"User_Id\": 4, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 18}}"
+    },
+    {
+        "record_id":5,
+        "event_data":"{\"User_Id\": 5, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 436}}"
+    },
+    {
+        "record_id":6,
+        "event_data":"{\"User_Id\": 6, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 235}}"
+    },
+    {
+        "record_id":7,
+        "event_data":"{\"User_Id\": 7, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 326}}"
+    },
+    {
+        "record_id":8,
+        "event_data":"{\"User_Id\": 8, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 452}}"
+    },
+    {
+        "record_id":9,
+        "event_data":"{\"User_Id\": 9, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 300}}"
+    },
+    {
+        "record_id":10,
+        "event_data":"{\"User_Id\": 10, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 253}}"
+    },
+    {
+        "record_id":11,
+        "event_data":"{\"User_Id\": 11, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"India\", \"Time_Spent_Sec\": 62}}"
+    },
+    {
+        "record_id":12,
+        "event_data":"{\"User_Id\": 12, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 343}}"
+    },
+    {
+        "record_id":13,
+        "event_data":"{\"User_Id\": 13, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 19}}"
+    },
+    {
+        "record_id":14,
+        "event_data":"{\"User_Id\": 14, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 77}}"
+    },
+    {
+        "record_id":15,
+        "event_data":"{\"User_Id\": 15, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 415}}"
+    },
+    {
+        "record_id":16,
+        "event_data":"{\"User_Id\": 16, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 386}}"
+    },
+    {
+        "record_id":17,
+        "event_data":"{\"User_Id\": 17, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 476}}"
+    },
+    {
+        "record_id":18,
+        "event_data":"{\"User_Id\": 18, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 297}}"
+    },
+    {
+        "record_id":19,
+        "event_data":"{\"User_Id\": 19, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 202}}"
+    },
+    {
+        "record_id":20,
+        "event_data":"{\"User_Id\": 20, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"India\", \"Time_Spent_Sec\": 280}}"
+    },
+    {
+        "record_id":21,
+        "event_data":"{\"User_Id\": 21, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 250}}"
+    },
+    {
+        "record_id":22,
+        "event_data":"{\"User_Id\": 22, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 367}}"
+    },
+    {
+        "record_id":23,
+        "event_data":"{\"User_Id\": 23, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 148}}"
+    },
+    {
+        "record_id":24,
+        "event_data":"{\"User_Id\": 24, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 15}}"
+    },
+    {
+        "record_id":25,
+        "event_data":"{\"User_Id\": 25, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 98}}"
+    },
+    {
+        "record_id":26,
+        "event_data":"{\"User_Id\": 26, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 138}}"
+    },
+    {
+        "record_id":27,
+        "event_data":"{\"User_Id\": 27, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 499}}"
+    },
+    {
+        "record_id":28,
+        "event_data":"{\"User_Id\": 28, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 332}}"
+    },
+    {
+        "record_id":29,
+        "event_data":"{\"User_Id\": 29, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 168}}"
+    },
+    {
+        "record_id":30,
+        "event_data":"{\"User_Id\": 30, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 449}}"
+    },
+    {
+        "record_id":31,
+        "event_data":"{\"User_Id\": 31, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 60}}"
+    },
+    {
+        "record_id":32,
+        "event_data":"{\"User_Id\": 32, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 438}}"
+    },
+    {
+        "record_id":33,
+        "event_data":"{\"User_Id\": 33, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 392}}"
+    },
+    {
+        "record_id":34,
+        "event_data":"{\"User_Id\": 34, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 253}}"
+    },
+    {
+        "record_id":35,
+        "event_data":"{\"User_Id\": 35, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 229}}"
+    },
+    {
+        "record_id":36,
+        "event_data":"{\"User_Id\": 36, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 317}}"
+    },
+    {
+        "record_id":37,
+        "event_data":"{\"User_Id\": 37, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 26}}"
+    },
+    {
+        "record_id":38,
+        "event_data":"{\"User_Id\": 38, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 242}}"
+    },
+    {
+        "record_id":39,
+        "event_data":"{\"User_Id\": 39, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 439}}"
+    },
+    {
+        "record_id":40,
+        "event_data":"{\"User_Id\": 40, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 98}}"
+    },
+    {
+        "record_id":41,
+        "event_data":"{\"User_Id\": 41, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"India\", \"Time_Spent_Sec\": 326}}"
+    },
+    {
+        "record_id":42,
+        "event_data":"{\"User_Id\": 42, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 98}}"
+    },
+    {
+        "record_id":43,
+        "event_data":"{\"User_Id\": 43, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 235}}"
+    },
+    {
+        "record_id":44,
+        "event_data":"{\"User_Id\": 44, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 221}}"
+    },
+    {
+        "record_id":45,
+        "event_data":"{\"User_Id\": 45, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 67}}"
+    },
+    {
+        "record_id":46,
+        "event_data":"{\"User_Id\": 46, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 121}}"
+    },
+    {
+        "record_id":47,
+        "event_data":"{\"User_Id\": 47, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 392}}"
+    },
+    {
+        "record_id":48,
+        "event_data":"{\"User_Id\": 48, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 350}}"
+    },
+    {
+        "record_id":49,
+        "event_data":"{\"User_Id\": 49, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 190}}"
+    },
+    {
+        "record_id":50,
+        "event_data":"{\"User_Id\": 50, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"India\", \"Time_Spent_Sec\": 130}}"
+    },
+    {
+        "record_id":51,
+        "event_data":"{\"User_Id\": 51, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 253}}"
+    },
+    {
+        "record_id":52,
+        "event_data":"{\"User_Id\": 52, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 126}}"
+    },
+    {
+        "record_id":53,
+        "event_data":"{\"User_Id\": 53, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 345}}"
+    },
+    {
+        "record_id":54,
+        "event_data":"{\"User_Id\": 54, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 213}}"
+    },
+    {
+        "record_id":55,
+        "event_data":"{\"User_Id\": 55, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 248}}"
+    },
+    {
+        "record_id":56,
+        "event_data":"{\"User_Id\": 56, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 56}}"
+    },
+    {
+        "record_id":57,
+        "event_data":"{\"User_Id\": 57, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 332}}"
+    },
+    {
+        "record_id":58,
+        "event_data":"{\"User_Id\": 58, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 485}}"
+    },
+    {
+        "record_id":59,
+        "event_data":"{\"User_Id\": 59, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 369}}"
+    },
+    {
+        "record_id":60,
+        "event_data":"{\"User_Id\": 60, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 484}}"
+    },
+    {
+        "record_id":61,
+        "event_data":"{\"User_Id\": 61, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 398}}"
+    },
+    {
+        "record_id":62,
+        "event_data":"{\"User_Id\": 62, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"India\", \"Time_Spent_Sec\": 480}}"
+    },
+    {
+        "record_id":63,
+        "event_data":"{\"User_Id\": 63, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 157}}"
+    },
+    {
+        "record_id":64,
+        "event_data":"{\"User_Id\": 64, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"India\", \"Time_Spent_Sec\": 394}}"
+    },
+    {
+        "record_id":65,
+        "event_data":"{\"User_Id\": 65, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"India\", \"Time_Spent_Sec\": 500}}"
+    },
+    {
+        "record_id":66,
+        "event_data":"{\"User_Id\": 66, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 251}}"
+    },
+    {
+        "record_id":67,
+        "event_data":"{\"User_Id\": 67, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"India\", \"Time_Spent_Sec\": 25}}"
+    },
+    {
+        "record_id":68,
+        "event_data":"{\"User_Id\": 68, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"India\", \"Time_Spent_Sec\": 53}}"
+    },
+    {
+        "record_id":69,
+        "event_data":"{\"User_Id\": 69, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 56}}"
+    },
+    {
+        "record_id":70,
+        "event_data":"{\"User_Id\": 70, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 44}}"
+    },
+    {
+        "record_id":71,
+        "event_data":"{\"User_Id\": 71, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 469}}"
+    },
+    {
+        "record_id":72,
+        "event_data":"{\"User_Id\": 72, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 185}}"
+    },
+    {
+        "record_id":73,
+        "event_data":"{\"User_Id\": 73, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 249}}"
+    },
+    {
+        "record_id":74,
+        "event_data":"{\"User_Id\": 74, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 442}}"
+    },
+    {
+        "record_id":75,
+        "event_data":"{\"User_Id\": 75, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 430}}"
+    },
+    {
+        "record_id":76,
+        "event_data":"{\"User_Id\": 76, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 101}}"
+    },
+    {
+        "record_id":77,
+        "event_data":"{\"User_Id\": 77, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 291}}"
+    },
+    {
+        "record_id":78,
+        "event_data":"{\"User_Id\": 78, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 356}}"
+    },
+    {
+        "record_id":79,
+        "event_data":"{\"User_Id\": 79, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 82}}"
+    },
+    {
+        "record_id":80,
+        "event_data":"{\"User_Id\": 80, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 282}}"
+    },
+    {
+        "record_id":81,
+        "event_data":"{\"User_Id\": 81, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 72}}"
+    },
+    {
+        "record_id":82,
+        "event_data":"{\"User_Id\": 82, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 345}}"
+    },
+    {
+        "record_id":83,
+        "event_data":"{\"User_Id\": 83, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 236}}"
+    },
+    {
+        "record_id":84,
+        "event_data":"{\"User_Id\": 84, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 173}}"
+    },
+    {
+        "record_id":85,
+        "event_data":"{\"User_Id\": 85, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 457}}"
+    },
+    {
+        "record_id":86,
+        "event_data":"{\"User_Id\": 86, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 130}}"
+    },
+    {
+        "record_id":87,
+        "event_data":"{\"User_Id\": 87, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 158}}"
+    },
+    {
+        "record_id":88,
+        "event_data":"{\"User_Id\": 88, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"India\", \"Time_Spent_Sec\": 317}}"
+    },
+    {
+        "record_id":89,
+        "event_data":"{\"User_Id\": 89, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 488}}"
+    },
+    {
+        "record_id":90,
+        "event_data":"{\"User_Id\": 90, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 163}}"
+    },
+    {
+        "record_id":91,
+        "event_data":"{\"User_Id\": 91, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 296}}"
+    },
+    {
+        "record_id":92,
+        "event_data":"{\"User_Id\": 92, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"India\", \"Time_Spent_Sec\": 77}}"
+    },
+    {
+        "record_id":93,
+        "event_data":"{\"User_Id\": 93, \"Event\": \"Click\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Canada\", \"Time_Spent_Sec\": 129}}"
+    },
+    {
+        "record_id":94,
+        "event_data":"{\"User_Id\": 94, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Uk\", \"Time_Spent_Sec\": 343}}"
+    },
+    {
+        "record_id":95,
+        "event_data":"{\"User_Id\": 95, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 127}}"
+    },
+    {
+        "record_id":96,
+        "event_data":"{\"User_Id\": 96, \"Event\": \"Purchase\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 158}}"
+    },
+    {
+        "record_id":97,
+        "event_data":"{\"User_Id\": 97, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"India\", \"Time_Spent_Sec\": 490}}"
+    },
+    {
+        "record_id":98,
+        "event_data":"{\"User_Id\": 98, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Mobile\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 279}}"
+    },
+    {
+        "record_id":99,
+        "event_data":"{\"User_Id\": 99, \"Event\": \"Logout\", \"Metadata\": {\"Device\": \"Desktop\", \"Location\": \"Usa\", \"Time_Spent_Sec\": 253}}"
+    },
+    {
+        "record_id":100,
+        "event_data":"{\"User_Id\": 100, \"Event\": \"Login\", \"Metadata\": {\"Device\": \"Tablet\", \"Location\": \"India\", \"Time_Spent_Sec\": 193}}"
+    }
+]

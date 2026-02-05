@@ -1,0 +1,418 @@
+[
+    {
+        "entity_type": "User",
+        "entity_value": "User_1"
+    },
+    {
+        "entity_type": "Event",
+        "entity_value": "Purchase"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_2"
+    },
+    {
+        "entity_type": "Event",
+        "entity_value": "Click"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_3"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_4"
+    },
+    {
+        "entity_type": "Event",
+        "entity_value": "Login"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_5"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_6"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_7"
+    },
+    {
+        "entity_type": "Event",
+        "entity_value": "Logout"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_8"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_9"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_10"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_11"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_12"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_13"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_14"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_15"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_16"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_17"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_18"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_19"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_20"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_21"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_22"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_23"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_24"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_25"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_26"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_27"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_28"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_29"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_30"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_31"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_32"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_33"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_34"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_35"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_36"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_37"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_38"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_39"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_40"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_41"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_42"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_43"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_44"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_45"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_46"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_47"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_48"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_49"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_50"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_51"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_52"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_53"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_54"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_55"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_56"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_57"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_58"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_59"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_60"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_61"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_62"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_63"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_64"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_65"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_66"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_67"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_68"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_69"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_70"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_71"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_72"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_73"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_74"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_75"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_76"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_77"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_78"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_79"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_80"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_81"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_82"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_83"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_84"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_85"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_86"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_87"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_88"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_89"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_90"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_91"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_92"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_93"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_94"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_95"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_96"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_97"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_98"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_99"
+    },
+    {
+        "entity_type": "User",
+        "entity_value": "User_100"
+    }
+]

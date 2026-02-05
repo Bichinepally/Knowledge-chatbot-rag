@@ -1,0 +1,1232 @@
+[
+  {
+    "subject": "Employee_E001",
+    "predicate": "name",
+    "object": "Amit Sharma"
+  },
+  {
+    "subject": "Employee_E001",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E002",
+    "predicate": "name",
+    "object": "Neha Verma"
+  },
+  {
+    "subject": "Employee_E002",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E003",
+    "predicate": "name",
+    "object": "Ravi Kumar"
+  },
+  {
+    "subject": "Employee_E003",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E004",
+    "predicate": "name",
+    "object": "Employee4"
+  },
+  {
+    "subject": "Employee_E004",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E005",
+    "predicate": "name",
+    "object": "Employee5"
+  },
+  {
+    "subject": "Employee_E005",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E006",
+    "predicate": "name",
+    "object": "Employee6"
+  },
+  {
+    "subject": "Employee_E006",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E007",
+    "predicate": "name",
+    "object": "Employee7"
+  },
+  {
+    "subject": "Employee_E007",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E008",
+    "predicate": "name",
+    "object": "Employee8"
+  },
+  {
+    "subject": "Employee_E008",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E009",
+    "predicate": "name",
+    "object": "Employee9"
+  },
+  {
+    "subject": "Employee_E009",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E010",
+    "predicate": "name",
+    "object": "Employee10"
+  },
+  {
+    "subject": "Employee_E010",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E011",
+    "predicate": "name",
+    "object": "Employee11"
+  },
+  {
+    "subject": "Employee_E011",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E012",
+    "predicate": "name",
+    "object": "Employee12"
+  },
+  {
+    "subject": "Employee_E012",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E013",
+    "predicate": "name",
+    "object": "Employee13"
+  },
+  {
+    "subject": "Employee_E013",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E014",
+    "predicate": "name",
+    "object": "Employee14"
+  },
+  {
+    "subject": "Employee_E014",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E015",
+    "predicate": "name",
+    "object": "Employee15"
+  },
+  {
+    "subject": "Employee_E015",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E016",
+    "predicate": "name",
+    "object": "Employee16"
+  },
+  {
+    "subject": "Employee_E016",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E017",
+    "predicate": "name",
+    "object": "Employee17"
+  },
+  {
+    "subject": "Employee_E017",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E018",
+    "predicate": "name",
+    "object": "Employee18"
+  },
+  {
+    "subject": "Employee_E018",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E019",
+    "predicate": "name",
+    "object": "Employee19"
+  },
+  {
+    "subject": "Employee_E019",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E020",
+    "predicate": "name",
+    "object": "Employee20"
+  },
+  {
+    "subject": "Employee_E020",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E021",
+    "predicate": "name",
+    "object": "Employee21"
+  },
+  {
+    "subject": "Employee_E021",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E022",
+    "predicate": "name",
+    "object": "Employee22"
+  },
+  {
+    "subject": "Employee_E022",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E023",
+    "predicate": "name",
+    "object": "Employee23"
+  },
+  {
+    "subject": "Employee_E023",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E024",
+    "predicate": "name",
+    "object": "Employee24"
+  },
+  {
+    "subject": "Employee_E024",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E025",
+    "predicate": "name",
+    "object": "Employee25"
+  },
+  {
+    "subject": "Employee_E025",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E026",
+    "predicate": "name",
+    "object": "Employee26"
+  },
+  {
+    "subject": "Employee_E026",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E027",
+    "predicate": "name",
+    "object": "Employee27"
+  },
+  {
+    "subject": "Employee_E027",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E028",
+    "predicate": "name",
+    "object": "Employee28"
+  },
+  {
+    "subject": "Employee_E028",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E029",
+    "predicate": "name",
+    "object": "Employee29"
+  },
+  {
+    "subject": "Employee_E029",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E030",
+    "predicate": "name",
+    "object": "Employee30"
+  },
+  {
+    "subject": "Employee_E030",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E031",
+    "predicate": "name",
+    "object": "Employee31"
+  },
+  {
+    "subject": "Employee_E031",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E032",
+    "predicate": "name",
+    "object": "Employee32"
+  },
+  {
+    "subject": "Employee_E032",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E033",
+    "predicate": "name",
+    "object": "Employee33"
+  },
+  {
+    "subject": "Employee_E033",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E034",
+    "predicate": "name",
+    "object": "Employee34"
+  },
+  {
+    "subject": "Employee_E034",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E035",
+    "predicate": "name",
+    "object": "Employee35"
+  },
+  {
+    "subject": "Employee_E035",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E036",
+    "predicate": "name",
+    "object": "Employee36"
+  },
+  {
+    "subject": "Employee_E036",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E037",
+    "predicate": "name",
+    "object": "Employee37"
+  },
+  {
+    "subject": "Employee_E037",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E038",
+    "predicate": "name",
+    "object": "Employee38"
+  },
+  {
+    "subject": "Employee_E038",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E039",
+    "predicate": "name",
+    "object": "Employee39"
+  },
+  {
+    "subject": "Employee_E039",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E040",
+    "predicate": "name",
+    "object": "Employee40"
+  },
+  {
+    "subject": "Employee_E040",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E041",
+    "predicate": "name",
+    "object": "Employee41"
+  },
+  {
+    "subject": "Employee_E041",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E042",
+    "predicate": "name",
+    "object": "Employee42"
+  },
+  {
+    "subject": "Employee_E042",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E043",
+    "predicate": "name",
+    "object": "Employee43"
+  },
+  {
+    "subject": "Employee_E043",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E044",
+    "predicate": "name",
+    "object": "Employee44"
+  },
+  {
+    "subject": "Employee_E044",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E045",
+    "predicate": "name",
+    "object": "Employee45"
+  },
+  {
+    "subject": "Employee_E045",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E046",
+    "predicate": "name",
+    "object": "Employee46"
+  },
+  {
+    "subject": "Employee_E046",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E047",
+    "predicate": "name",
+    "object": "Employee47"
+  },
+  {
+    "subject": "Employee_E047",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E048",
+    "predicate": "name",
+    "object": "Employee48"
+  },
+  {
+    "subject": "Employee_E048",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E049",
+    "predicate": "name",
+    "object": "Employee49"
+  },
+  {
+    "subject": "Employee_E049",
+    "predicate": "works_in",
+    "object": "Consulting"
+  },
+  {
+    "subject": "Employee_E050",
+    "predicate": "name",
+    "object": "Employee50"
+  },
+  {
+    "subject": "Employee_E050",
+    "predicate": "works_in",
+    "object": "IT"
+  },
+  {
+    "subject": "Employee_E051",
+    "predicate": "name",
+    "object": "Employee51"
+  },
+  {
+    "subject": "Employee_E051",
+    "predicate": "works_in",
+    "object": "AI"
+  },
+  {
+    "subject": "Employee_E052",
+    "predicate": "name",
+    "object": "Employee52"
+  },
+  {
+    "subject": "Employee_E052",
+    "predicate": "works_in",
+    "object": "HR"
+  },
+  {
+    "subject": "Employee_E053",
+    "predicate": "name",
+    "object": "Employee53"
+  },
+  {
+    "subject": "Employee_E053",
+    "predicate": "works_in",
+    "object": "Finance"
+  },
+  {
+    "subject": "Employee_E002",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E003",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E004",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E005",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E006",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E007",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E008",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E009",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E010",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E011",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E012",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E013",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E014",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E015",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E016",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E017",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E018",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E019",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E020",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E021",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E022",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E023",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E024",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E025",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E026",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E027",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E028",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E029",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E030",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E031",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E032",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E033",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E034",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E035",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E036",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E037",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E038",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E039",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E040",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E041",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E042",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E043",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E044",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E045",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E046",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E047",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Employee_E048",
+    "predicate": "attendance_status",
+    "object": "On Leave"
+  },
+  {
+    "subject": "Employee_E049",
+    "predicate": "attendance_status",
+    "object": "Present"
+  },
+  {
+    "subject": "Employee_E050",
+    "predicate": "attendance_status",
+    "object": "Absent"
+  },
+  {
+    "subject": "Employee_E051",
+    "predicate": "attendance_status",
+    "object": "Work From Home"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "12000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "15000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4100000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "18000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "5000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "9500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2100000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "11000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2600000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "12500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "8700000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "9200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2300000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "10000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2600000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "14000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "15500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "17000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4600000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "6200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "7000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "7800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "10200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2700000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "11800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3100000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "13000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "8000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1700000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "8900000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "9600000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2300000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "13500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3600000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "14800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3900000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "16000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4300000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "5600000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "900000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "6300000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1100000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "7000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1400000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "9200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2400000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "10500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "11800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "3200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "6700000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1300000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "7500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1600000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "8300000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1900000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "15000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "16500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4400000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "18000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4900000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "8800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1900000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "9500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "10300000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "7200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1400000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "8000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "1700000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "8800000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "2000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "16000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4200000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "17500000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "4700000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "revenue",
+    "object": "19000000"
+  },
+  {
+    "subject": "Company",
+    "predicate": "profit",
+    "object": "5200000"
+  }
+]

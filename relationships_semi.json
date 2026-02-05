@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "User_1",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_2",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_3",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_4",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_5",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_6",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_7",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_8",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_9",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_10",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_11",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_12",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_13",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_14",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_15",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_16",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_17",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_18",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_19",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_20",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_21",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_22",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_23",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_24",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_25",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_26",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_27",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_28",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_29",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_30",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_31",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_32",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_33",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_34",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_35",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_36",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_37",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_38",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_39",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_40",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_41",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_42",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_43",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_44",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_45",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_46",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_47",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_48",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_49",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_50",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_51",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_52",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_53",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_54",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_55",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_56",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_57",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_58",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_59",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_60",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_61",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_62",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_63",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_64",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_65",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_66",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_67",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_68",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_69",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_70",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_71",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_72",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_73",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_74",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_75",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_76",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_77",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_78",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_79",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_80",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_81",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_82",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_83",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_84",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_85",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_86",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_87",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_88",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_89",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_90",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_91",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_92",
+        "relation": "performed_event",
+        "object": "Login"
+    },
+    {
+        "subject": "User_93",
+        "relation": "performed_event",
+        "object": "Click"
+    },
+    {
+        "subject": "User_94",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_95",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_96",
+        "relation": "performed_event",
+        "object": "Purchase"
+    },
+    {
+        "subject": "User_97",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_98",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_99",
+        "relation": "performed_event",
+        "object": "Logout"
+    },
+    {
+        "subject": "User_100",
+        "relation": "performed_event",
+        "object": "Login"
+    }
+]
